@@ -2,4 +2,4 @@
 
 ## prod
 
-https://react-recoil-nu.vercel.app/
+https://clone-dev-to.vercel.app/
